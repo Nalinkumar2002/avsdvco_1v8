@@ -1,0 +1,63 @@
+* SPICE3 file created from nali2.ext - technology: sky130A
+
+
+
+.option scale=10000u
+
+
+X0 a_458_n504# a_322_n504# a_395_n742# GND sky130_fd_pr__nfet_01v8 w=50 l=18
+
+X1 GND VCTRL a_n179_n190# GND sky130_fd_pr__nfet_01v8 w=101 l=18
+
+X2 a_8_n409# a_458_n504# a_531_n346# VDD sky130_fd_pr__pfet_01v8 w=50 l=18
+
+X3 a_186_n505# a_50_n505# a_123_n347# VDD sky130_fd_pr__pfet_01v8 w=50 l=18
+
+X4 a_322_n504# a_186_n505# a_259_n346# VDD sky130_fd_pr__pfet_01v8 w=50 l=18
+
+X5 a_8_n409# a_458_n504# a_531_n742# GND sky130_fd_pr__nfet_01v8 w=50 l=18
+
+X6 a_802_n597# a_8_n409# GND GND sky130_fd_pr__nfet_01v8 w=144 l=18
+
+X7 VDD a_n179_n190# a_395_n346# VDD sky130_fd_pr__pfet_01v8 w=130 l=18
+
+X8 a_186_n505# a_50_n505# a_123_n742# GND sky130_fd_pr__nfet_01v8 w=50 l=18
+
+X9 a_322_n504# a_186_n505# a_259_n742# GND sky130_fd_pr__nfet_01v8 w=50 l=18
+
+X10 VDD a_n179_n190# a_123_n347# VDD sky130_fd_pr__pfet_01v8 w=130 l=18
+
+X11 F_OUT a_802_n597# VDD VDD sky130_fd_pr__pfet_01v8 w=129 l=18
+
+X12 GND VCTRL a_395_n742# GND sky130_fd_pr__nfet_01v8 w=129 l=18
+
+X13 GND VCTRL a_123_n742# GND sky130_fd_pr__nfet_01v8 w=129 l=18
+
+X14 a_50_n505# a_8_n409# a_n13_n347# VDD sky130_fd_pr__pfet_01v8 w=50 l=18
+
+X15 F_OUT a_802_n597# GND GND sky130_fd_pr__nfet_01v8 w=65 l=18
+
+X16 VDD a_n179_n190# a_531_n346# VDD sky130_fd_pr__pfet_01v8 w=130 l=18
+
+X17 a_50_n505# a_8_n409# a_n13_n742# GND sky130_fd_pr__nfet_01v8 w=50 l=18
+
+X18 VDD a_n179_n190# a_n179_n190# VDD sky130_fd_pr__pfet_01v8 w=101 l=18
+
+X19 VDD a_n179_n190# a_n13_n347# VDD sky130_fd_pr__pfet_01v8 w=130 l=18
+
+X20 VDD a_n179_n190# a_259_n346# VDD sky130_fd_pr__pfet_01v8 w=130 l=18
+
+X21 GND VCTRL a_531_n742# GND sky130_fd_pr__nfet_01v8 w=129 l=18
+
+X22 a_458_n504# a_322_n504# a_395_n346# VDD sky130_fd_pr__pfet_01v8 w=50 l=18
+
+X23 GND VCTRL a_259_n742# GND sky130_fd_pr__nfet_01v8 w=129 l=18
+
+X24 a_802_n597# a_8_n409# VDD VDD sky130_fd_pr__pfet_01v8 w=288 l=18
+
+X25 GND VCTRL a_n13_n742# GND sky130_fd_pr__nfet_01v8 w=129 l=18
+
+
+C0 a_n179_n190# GND 2.03fF
+
+C1 VDD GND 9.38fF
