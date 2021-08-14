@@ -1,0 +1,38 @@
+* E:\project\e_sim_layout\avsdvco_1v8\avsdvco_1v8.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 8/14/2021 9:36:26 PM
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+M25  Net-_M11-Pad2_ Net-_M11-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M11  Net-_M1-Pad3_ Net-_M11-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M12  Net-_M12-Pad1_ Net-_M11-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M13  Net-_M13-Pad1_ Net-_M11-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M14  Net-_M14-Pad1_ Net-_M11-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M15  Net-_M15-Pad1_ Net-_M11-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M21  Net-_M21-Pad1_ Net-_M1-Pad2_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M23  F_out Net-_M21-Pad1_ Net-_M1-Pad4_ Net-_M1-Pad4_ mosfet_p		
+M1  Net-_M1-Pad1_ Net-_M1-Pad2_ Net-_M1-Pad3_ Net-_M1-Pad4_ mosfet_p		
+M3  Net-_M3-Pad1_ Net-_M1-Pad1_ Net-_M12-Pad1_ Net-_M1-Pad4_ mosfet_p		
+M5  Net-_M5-Pad1_ Net-_M3-Pad1_ Net-_M13-Pad1_ Net-_M1-Pad4_ mosfet_p		
+M7  Net-_M10-Pad2_ Net-_M5-Pad1_ Net-_M14-Pad1_ Net-_M1-Pad4_ mosfet_p		
+M9  Net-_M1-Pad2_ Net-_M10-Pad2_ Net-_M15-Pad1_ Net-_M1-Pad4_ mosfet_p		
+M2  Net-_M1-Pad1_ Net-_M1-Pad2_ Net-_M16-Pad1_ GND mosfet_n		
+M4  Net-_M3-Pad1_ Net-_M1-Pad1_ Net-_M17-Pad1_ GND mosfet_n		
+M6  Net-_M5-Pad1_ Net-_M3-Pad1_ Net-_M18-Pad1_ GND mosfet_n		
+M8  Net-_M10-Pad2_ Net-_M5-Pad1_ Net-_M19-Pad1_ GND mosfet_n		
+M10  Net-_M1-Pad2_ Net-_M10-Pad2_ Net-_M10-Pad3_ GND mosfet_n		
+M22  Net-_M21-Pad1_ Net-_M1-Pad2_ GND GND mosfet_n		
+M24  F_out Net-_M21-Pad1_ GND GND mosfet_n		
+M16  Net-_M16-Pad1_ Net-_M16-Pad2_ GND GND mosfet_n		
+M17  Net-_M17-Pad1_ Net-_M16-Pad2_ GND GND mosfet_n		
+M18  Net-_M18-Pad1_ Net-_M16-Pad2_ GND GND mosfet_n		
+M19  Net-_M19-Pad1_ Net-_M16-Pad2_ GND GND mosfet_n		
+M20  Net-_M10-Pad3_ Net-_M16-Pad2_ GND GND mosfet_n		
+M26  Net-_M11-Pad2_ Net-_M16-Pad2_ GND GND mosfet_n		
+VDD1  Net-_M1-Pad4_ GND 1.8		
+VCTRL1  Net-_M16-Pad2_ GND DC		
+
+.end
