@@ -67,7 +67,7 @@ large capacitive load may affect the F<sub>osc</sub> and K<sub>vco</sub> ).
 
 The image shown below is a 5 stage - Current Starved VCO
 
-<img src="Images/CSVCO.PNG">
+<img src="Images/csvco.PNG">
 
 </br>
 
