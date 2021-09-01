@@ -605,6 +605,6 @@ The result of transient analysis of VCO @ `vctrl = 0.9 V` is shown below
  
  # Acknowledgements
 
- 📖 Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd. - kunalghosh@gmail.com
+ 📖 Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 
 ---
